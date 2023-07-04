@@ -1,5 +1,5 @@
-track cytoBandIdeo
-longLabel Chromosome ideogram with cytogenetic bands
-shortLabel cytoBandIdeo
-bigDataUrl cytoBandIdeo.bigBed
-type bigBed
+track gARID_gsnf2KO_IP1
+longLabel ChIP-seq of gARID in gsnf2 knockout
+shortLabel gARID_gsnf2KO_IP1
+bigDataUrl 1024_ChIP_730KO_1.bw
+type bigWig
