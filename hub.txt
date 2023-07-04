@@ -3,4 +3,4 @@ shortLabel Pberghei
 longLabel P berghei ANKA
 genomesFile genomes.txt
 email t-nishi@med.mie-u.ac.jp
-descriptionUrl
+descriptionUrl https://github.com/m-yuda/NAR
