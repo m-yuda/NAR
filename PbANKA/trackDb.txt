@@ -1,3 +1,27 @@
+track gARID_IP1
+longLabel ChIP-seq of gARID exp1
+shortLabel gARID_IP1
+bigDataUrl 1024_ChIP_1.bw
+type bigWig
+
+track gARID_IP2
+longLabel ChIP-seq of gARID exp2
+shortLabel gARID_IP2
+bigDataUrl 1024_ChIP_2.bw
+type bigWig
+
+track gARID_Input1
+longLabel Input for ChIP-seq of gARID exp1
+shortLabel gARID_Input1
+bigDataUrl 1024_input_1.bw
+type bigWig
+
+track gARID_Input2
+longLabel Input for ChIP-seq of gARID exp2
+shortLabel gARID_Input2
+bigDataUrl 1024_input_2.bw
+type bigWig
+
 track gARID_gsnf2KO_IP1
 longLabel ChIP-seq of gARID in gsnf2 knockout exp1
 shortLabel gARID_gsnf2KO_IP1
@@ -9,3 +33,40 @@ longLabel ChIP-seq of gARID in gsnf2 knockout exp2
 shortLabel gARID_gsnf2KO_IP2
 bigDataUrl 1024_ChIP_730KO_2.bw
 type bigWig
+
+track gARID_gsnf2KO_Input1
+longLabel Input for ChIP-seq of gARID in gsnf2 knockout exp1
+shortLabel gARID_gsnf2KO_Input1
+bigDataUrl 1024_input_730KO_1.bw
+type bigWig
+
+track gARID_gsnf2KO_Input2
+longLabel Input for ChIP-seq of gARID in gsnf2 knockout exp2
+shortLabel gARID_gsnf2KO_Input2
+bigDataUrl 1024_input_730KO_2.bw
+type bigWig
+
+track gARID_dKO_IP1
+longLabel ChIP-seq of gARID in gsnf2 pfgKO knockout exp1
+shortLabel gARID_dKO_IP1
+bigDataUrl 1024ChIP_730KO_9023KO_1.bw
+type bigWig
+
+track gARID_dKO_IP2
+longLabel ChIP-seq of gARID in gsnf2 pfgKO knockout exp2
+shortLabel gARID_dKO_IP2
+bigDataUrl 1024ChIP_730KO_9023KO_2.bw
+type bigWig
+
+track gARID_dKO_Input1
+longLabel Input for ChIP-seq of gARID in gsnf2 pfgKO knockout exp1
+shortLabel gARID_dKO_Input1
+bigDataUrl 1024Input_730KO_9023KO_1.bw
+type bigWig
+
+track gARID_dKO_Input2
+longLabel Input for ChIP-seq of gARID in gsnf2 pfgKO knockout exp2
+shortLabel gARID_dKO_Input2
+bigDataUrl 1024Input_730KO_9023KO_2.bw
+type bigWig
+
