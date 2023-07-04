@@ -1,5 +1,11 @@
 track gARID_gsnf2KO_IP1
-longLabel ChIP-seq of gARID in gsnf2 knockout
+longLabel ChIP-seq of gARID in gsnf2 knockout exp1
 shortLabel gARID_gsnf2KO_IP1
 bigDataUrl 1024_ChIP_730KO_1.bw
+type bigWig
+
+track gARID_gsnf2KO_IP2
+longLabel ChIP-seq of gARID in gsnf2 knockout exp2
+shortLabel gARID_gsnf2KO_IP2
+bigDataUrl 1024_ChIP_730KO_2.bw
 type bigWig
