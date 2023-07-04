@@ -3,5 +3,4 @@ trackDb PbANKA/trackDb.txt
 description Nov 2019
 twoBitPath PbANKA/PbANKA46.2bit
 organism Plasmodium berghei
-defaultPos PbANKA_01_v3:100000-200000
 scientificName Plasmodium berghei
