@@ -1,5 +1,6 @@
-genome PbANKA46
+genome PbANKA
 trackDb PbANKA/trackDb.txt
+groups PbANKA/groups.txt
 description Nov 2019
 twoBitPath PbANKA/PbANKA46.2bit
 organism Plasmodium berghei
