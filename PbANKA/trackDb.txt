@@ -1,0 +1,5 @@
+track cytoBandIdeo
+longLabel Chromosome ideogram with cytogenetic bands
+shortLabel cytoBandIdeo
+bigDataUrl cytoBandIdeo.bigBed
+type bigBed
